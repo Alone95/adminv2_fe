@@ -2,7 +2,7 @@
   "name": "admin-v2-fe",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@gitee.com:happymmall/admin-v2-fe.git",
+  "repository": "git@github.com:Alone95/adminv2_fe.git",
   "author": "Alone",
   "license": "MIT",
   "scripts": {
