@@ -1,8 +1,8 @@
 /*
 * @Author: Rosen
 * @Date:   2018-01-23 22:18:41
-* @Last Modified by:   Rosen
-* @Last Modified time: 2018-01-23 22:26:09
+ * @Last Modified by: alone
+ * @Last Modified time: 2018-05-05 15:29:52
 */
 import React from 'react';
 
@@ -11,7 +11,7 @@ class PageTitle extends React.Component{
         super(props);
     }
     componentWillMount(){
-        document.title = this.props.title + ' - HAPPY MMALL';
+        document.title = this.props.title + ' - MiMall 后台管理';
     }
     render(){
         return (
