@@ -2,7 +2,7 @@
 * @Author: Rosen
 * @Date:   2018-01-23 19:59:56
  * @Last Modified by: alone
- * @Last Modified time: 2018-05-05 15:27:02
+ * @Last Modified time: 2018-05-05 15:56:13
 */
 import React        from 'react';
 import { Link }     from 'react-router-dom';
@@ -32,7 +32,7 @@ class NavTop extends React.Component{
         return (
             <div className="navbar navbar-default top-navbar">
                 <div className="navbar-header">
-                    <Link className="navbar-brand" to="/"><b>MiMall</b>后台管理</Link>
+                    <Link className="navbar-brand" to="/"><b>MiMall</b><b>Admin</b></Link>
                 </div>
 
                 <ul className="nav navbar-top-links navbar-right">
